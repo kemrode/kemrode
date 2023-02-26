@@ -17,8 +17,6 @@ A ce jour, je code en :
 
 -> Obj-C
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
-
 -> ReactNative
 
 -> [![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg) React
