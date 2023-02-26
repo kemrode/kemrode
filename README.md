@@ -1,5 +1,5 @@
 # kevinFICHOU
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]A propos de moi/About me...
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)A propos de moi/About me...
 
 
 Bonjour,
