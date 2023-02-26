@@ -1,5 +1,5 @@
 # kevinFICHOU
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)A propos de moi/About me...
+:smiling_face_with_three_hearts: A propos de moi/About me...
 
 
 Bonjour,
