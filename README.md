@@ -20,6 +20,10 @@ Mais, j'ai également des compétences en :
 
 [![My Skills](https://skills.thijs.gg/icons?i=blender)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=unity)](https://skills.thijs.gg)
 
+Ma collection de Badges à la Castor Junior :
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="716c804b-6a08-474a-9a18-baa05aa8b79a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 
 
