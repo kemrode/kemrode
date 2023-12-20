@@ -12,12 +12,12 @@ J'ai donc repris le chemin de l'école, avec le CESI de Rouen, et depuis 2021, j
 
 A ce jour, je code en :
 
-[![My Skills](https://skills.thijs.gg/icons?i=swift)](https://skills.thijs.gg)  [![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=cs)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=flutter)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=sass)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=swift)](https://skills.thijs.gg)  [![My Skills](https://skills.thijs.gg/icons?i=react)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=cs)](https://skills.thijs.gg)  [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=sass)](https://skills.thijs.gg)
 
-
-
-Mais, j'ai également des compétences en :
+Et je travaille également :
 
 [![My Skills](https://skills.thijs.gg/icons?i=blender)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=unity)](https://skills.thijs.gg)
+
+
 
 
